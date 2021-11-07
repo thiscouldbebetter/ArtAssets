@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns='http://www.w3.org/2000/svg'  width='128' height='128'>
+<g>
+
+<path
+	style='stroke:black;fill:white'
+	d='M 56,80 56,24 64,8 72,24 72,80 z'
+/>
+
+<path
+	style='stroke:black;fill:gold'
+	d='M 40,80 L 88,80 88,90 70,92 70,116 58,116 58,92 40,90 z'
+/>
+
+</g>
+</svg>
